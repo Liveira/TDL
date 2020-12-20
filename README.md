@@ -13,4 +13,11 @@ Primeiro rode o arquivo "main.py" ou "tdlist.exe"
 ```cmd
 main.py
 ```
-![alt text](https://prnt.sc/w6ogcv "Image")
+E Vai dar esse resultado
+
+```
+[New/Open]
+.......................
+
+New/Open:
+```
